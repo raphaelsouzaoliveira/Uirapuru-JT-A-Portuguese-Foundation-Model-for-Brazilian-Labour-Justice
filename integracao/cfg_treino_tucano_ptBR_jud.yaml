@@ -1,0 +1,36 @@
+---
+  super:
+    - cfg_ptBr_jud
+  content:
+      comum:
+        configuracao:
+          geral:
+            cam_saida_paralelismo: "saida/paralelismo"            
+            cam_base: "/dados/LLMJT/"
+            debug: False
+          embeddings:
+            tipo_embeddings: "Tucano2"
+            params_tipo_embeddings:
+              geral:
+                vocab_size: 32000
+                save_total_limit: 30
+                buffer_size_step: 10
+                fp16: False
+                bf16: True
+                eval:
+                  strategy: "no"
+                  per_epochs: 150
+                  end: False
+                save_per_epochs: 54
+              Tucano2:
+                from_scratch: False
+                fine_tokenizer: False
+                batch_size_train: 16
+                batch_size_eval: 7
+                gradient_accumulation_steps: 96
+                deepspeed_config: "deepspeed_config/tucano_fine_ptBr_jud.json"
+      treino_embeddings:
+        extracao: False
+        limpeza: False
+        consolida_dados: True
+        embeddings: True

@@ -1,0 +1,15 @@
+---
+  super:
+    - cfgComum
+  content:
+    comum:
+      configuracao:
+        geral:
+          tipo_dado: "ptBRJT"
+        extracao:
+          arquivos: #lista de arquivos pra processar usando os par chave: "caminho"
+            #chave: "caminho"
+    treino_embeddings:
+      configuracao:
+        extracao:
+          controle_execucao: "saida/extrator/treino_embeddings_controle_execucao.csv"            

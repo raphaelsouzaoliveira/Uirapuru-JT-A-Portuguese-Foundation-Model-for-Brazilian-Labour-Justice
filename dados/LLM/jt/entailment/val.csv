@@ -1,0 +1,297 @@
+sentence1,sentence2,Relação Lógica,entailment
+O empregado sofreu revista de bolsas,Gera dano moral,Poder Diretivo/Ausência de Contato Físico,0
+O contrato é de transporte comercial,Gera responsabilidade subsidiária,Natureza comercial afasta a terceirização (Tema 59 STF),0
+O empregado trabalha em condições insalubres,O empregado tem direito à aposentadoria especial automaticamente,Necessidade de Preenchimento de Requisitos Previdenciários Específicos,0
+Dispensa de empregado doente (sem nexo causal),Nulidade por abuso de direito/função social,Proteção à Saúde,1
+Acordo homologado judicialmente,Faz coisa julgada e impede rediscussão em nova ação,Coisa Julgada,1
+Ausência de prova de prejuízo no procedimento,Não há nulidade processual (pas de nullité sans grief),Princípio Processual,1
+As verbas rescisórias eram controvertidas,A multa do art. 467 é devida,Indevida (pressupõe incontrovérsia),0
+O empregado é comissionista puro,Recebe horas extras cheias,Recebe apenas o adicional (Súmula 340 TST),0
+O empregado é bancário,Sábado é dia de repouso,Dia útil não trabalhado (Súmula 113 TST),0
+Contrato nulo (ausência de concurso),Devido apenas salários e FGTS (Súmula 363 TST),Administração Pública,1
+A sentença é ilíquida,O recurso é deserto se não depositar o valor da causa,Valor do depósito recursal segue o teto legal ou o valor arbitrado à condenação,0
+O intervalo da mulher (art. 384) foi suprimido,É devido atualmente,Revogado pela Lei 13.467/2017,0
+A empresa adere ao PAT,O auxílio-alimentação é indenizatório,Salarial se pago antes da adesão (direito adquirido),0
+Cerceamento de defesa por indeferimento de prova digital (geolocalização),Nulidade processual,Direito de Defesa,1
+Abono pecuniário de férias,Direito potestativo do empregado,Férias,1
+Decisão liminar em Mandado de Segurança cumprida integralmente,Concessão da segurança em definitivo,Processual,1
+Laudo pericial afasta insalubridade e não há contraprova,Indevido o adicional de insalubridade,Prova Técnica,1
+Contrato de experiência prorrogado,Torna-se prazo indeterminado se ultrapassar 90 dias,Modalidade Contratual,1
+Valor da causa inferior a 2 salários mínimos,Recurso irrecorrível (salvo matéria constitucional),Alçada,1
+Empresa fornece transporte (fretado),Indevido vale-transporte,Benefício Legal,1
+A empresa pagou 'por fora',Não reflete nas verbas,Integração devida (Súmula 93 TST),0
+Pagamento de PLR,Não integra o salário (Lei 10.101/2000),Verba Indenizatória,1
+Reclamada admite prestação de serviços mas alega subempreitada não provada,Reconhecimento do vínculo de emprego direto,Inversão do Ônus da Prova,1
+O empregado alega dano moral,A indenização é devida,Exige prova robusta do ato ilícito e do dano (ônus do autor),0
+Dois juízes se declaram incompetentes,O processo é extinto,Suscitado conflito negativo de competência,0
+Embargos buscam rediscutir matéria não devolvida no recurso ordinário,Multa por embargos protelatórios é aplicada,Litigância de Má-fé,1
+O empregado é motorista,Tem direito a adicional de periculosidade,"Apenas se conduzir motocicleta (Art. 193, §4º CLT)",0
+O empregado pediu demissão,Saca o FGTS,Não tem direito ao saque no pedido de demissão,0
+Omissão na sentença sobre tema relevante,Embargos de declaração providos para suprir a lacuna,Integração do Julgado,1
+Testemunha litiga contra o mesmo empregador,Não gera suspeição automática (Súmula 357 TST),Admissibilidade da Prova,1
+Auxílio-alimentação fornecido sem adesão ao PAT,Natureza salarial da parcela,Remuneração,1
+A empresa pagou vale-cultura,Integra o salário,Natureza indenizatória,0
+O contrato é de empreitada de construção civil,O dono da obra responde subsidiariamente,Orientação Jurisprudencial 191 SDI-1 TST,0
+Juiz qualifica juridicamente os fatos de forma diversa da parte (iura novit curia),Não configura nulidade por julgamento citra petita,Poder-Dever do Juiz,1
+A parte opôs embargos de declaração,O juiz pode reexaminar o mérito da prova,"Embargos restritos a omissão, contradição ou obscuridade",0
+Inadimplência injustificada do beneficiário do plano de saúde,Afasta dano moral por cancelamento do benefício,Dano Moral,1
+Pagamento de salário 'por fora',Integração para reflexos,Salário Complessivo,1
+Alegação de nulidade por contaminação de prova não demonstrada,Rejeição da preliminar,Nulidade Processual,1
+Pensão mensal por doença ocupacional,Atualização por índices previdenciários é válida,Reparação Integral,1
+Cobrança de metas sem excessos ou humilhações,Não configura assédio moral (poder de gestão),Poder Diretivo,1
+Contribuição previdenciária,Adesão ao Simples deve ser provada,Tributário,1
+A empresa pagou as verbas rescisórias no prazo,A multa do art. 477 da CLT é indevida,A multa é devida se houver atraso na entrega de documentos/guias (Tema 127 TST),0
+Cartões de ponto eletrônicos não possuem assinatura,Não são inválidos apenas por este motivo (Súmula 27 TRT5),Validade da Prova,1
+Inexistência de condenação em reserva matemática na fase de conhecimento,Descabe sua cobrança na execução,Coisa Julgada,1
+O dono da obra contratou empreiteiro,Responde subsidiariamente pelas obrigações trabalhistas,"Não responde, exceto se for construtora/incorporadora ou houver culpa in eligendo (micro/pequena empresa)",0
+Ação rescisória para desconstituir coisa julgada,Cabível se houver violação manifesta de norma jurídica,Ação Rescisória,1
+A empresa é revel,A responsabilidade subsidiária do ente público é automática,"Não, exige prova de culpa do ente público",0
+Empresa não apresenta cartões de ponto (Súmula 338 TST),Horas extras devidas pela jornada da inicial,Ônus da Prova,1
+O juiz indefere a oitiva de testemunha,O ato é válido com base no poder diretivo,Configura cerceamento de defesa se a prova era necessária para contraponto fático,0
+O aviso prévio foi indenizado,Não conta para tempo de serviço,"Projeta-se para todos os efeitos (Art. 487, §1º, CLT)",0
+Descumprimento de cláusula de vale-refeição em CCT,Pagamento da verba e multa normativa,Direito Coletivo,1
+Empresa Brasileira de Correios e Telégrafos (ECT),Equipara-se à Fazenda Pública para prazos processuais,Prerrogativa Processual,1
+Houve promessa de contratação frustrada,Não gera indenização,Gera dano moral (fase pré-contratual - boa-fé objetiva),0
+Projeção do aviso prévio (mesmo indenizado) ultrapassa a data-base,Indevida a indenização adicional de um salário (Tema 228 TST),Contagem de Prazo,1
+O FGTS não foi recolhido,Gera dano moral in re ipsa,Indenização indevida (dano patrimonial),0
+Penhora de salário para dívida trabalhista,Possível até 50% se não comprometer subsistência (Tema 75 TST),Execução,1
+A execução é definitiva,Levantamento de valores é proibido,Permitido (art. 899 CLT não exige caução na definitiva),0
+Lesão ao FGTS conhecida após 13/11/2014,Prescrição quinquenal (Súmula 362 TST),Prescrição,1
+Mora salarial reiterada,Gera dano moral in re ipsa,Dano Moral,1
+Função exercida por mais de 10 anos,Supressão lícita após Reforma,Estabilidade financeira se decênio completado antes da Lei 13.467/17,0
+O empregado transporta valores,O empregador não é empresa de segurança,Dano Moral in re ipsa (Risco Acentuado),0
+Atualização de créditos trabalhistas (ADC 58),IPCA-E na fase pré-judicial e SELIC a partir do ajuizamento,Correção Monetária,1
+O empregado sofreu acidente de trabalho,A responsabilidade é objetiva,"Subjetiva (regra geral), salvo risco acentuado",0
+Vínculo empregatício reconhecido apenas em juízo,Indevida a multa do art. 467 da CLT (Tema 120 TST),Verbas Rescisórias,1
+Empresa em recuperação judicial,Não isenta de multas dos arts. 467 e 477 da CLT,Crédito Trabalhista,1
+O empregado sofre perseguição no trabalho,É mero aborrecimento,Configura assédio moral e dano moral,0
+O empregado trabalha exposto ao frio,O adicional de insalubridade é indevido se fornecidos EPIs,O adicional é devido se os EPIs forem insuficientes para neutralizar o agente (ex: falta de proteção térmica completa),0
+Empregada gestante de alto risco tem benefício negado pelo INSS,Empregador deve pagar salários (Limbo Previdenciário),Responsabilidade Social,1
+Empregada gestante pede demissão sem assistência sindical,Pedido é nulo e estabilidade é devida (Art. 500 CLT),Proteção à Maternidade,1
+Base de cálculo do adicional de periculosidade,Salário base (Súmula 191 TST) salvo eletricitários,Cálculo Trabalhista,1
+Prêmio pago com habitualidade sem critérios claros,Natureza salarial reconhecida,"Integração Salarial,,",1
+O empregado é intermitente,Tem salário mínimo mensal garantido,Garantia de salário mínimo hora,0
+O empregado adulterou atestado médico,É uma falta leve,Configura improbidade e justa causa,0
+Tese do Tema 1118 do STF (Responsabilidade Subsidiária),"Aplicação imediata aos processos em curso, sem modulação",Precedente Vinculante,1
+Restrição ao uso de banheiro,Dano moral configurado,Dignidade da Pessoa Humana,1
+Planilha de atualização que não abate valor incontroverso já liberado,Erro material a ser corrigido,Liquidação,1
+Banco de horas com extrapolação do limite de 10h diárias,"Regime inválido (Súmula 85, IV/V inaplicável)",Compensação de Jornada,1
+Continuidade da atividade econômica no mesmo local com aproveitamento da força de trabalho,Configura sucessão empresarial (arts. 10 e 448 CLT),Sucessão Trabalhista,1
+Ausência de anotação na CTPS,Não gera dano moral in re ipsa (Tema 60 TST),Inexistência de Dano Presumido,1
+Cartões de ponto apresentam horários britânicos (invariáveis),"São inválidos como meio de prova (Súmula 338, III, TST)",Valoração da Prova,1
+A empresa tem sócios,Os sócios respondem solidariamente,Subsidiariamente (após desconsideração da personalidade jurídica),0
+O empregado trabalha no feriado,Recebe em dobro sempre,Indevido se houver folga compensatória ou banco de horas válido,0
+Concessionária de serviço público (pessoa privada),"Responsabilidade subsidiária objetiva pelo inadimplemento (Súmula 331, IV)",Natureza Jurídica,1
+A empresa está no Simples Nacional,Isenção previdenciária automática,Exige prova da adesão e anexos,0
+Sindicato atua como substituto processual e perde a ação,Paga custas e honorários,Isento se atuar de boa-fé na defesa de interesses coletivos/homogêneos,0
+O trabalhador é religioso (pastor),Existe vínculo de emprego,Inexistência de vínculo (convicção religiosa x onerosidade),0
+Limbo previdenciário (alta do INSS e recusa da empresa),Salários devidos pelo empregador,"Responsabilidade Contratual,,",1
+O empregado recebe comissões,A empresa pode estornar se o cliente não pagar,Vedação à transferência do risco (Tema 65 TST),0
+Discriminação de gênero alegada,Exige prova ou indícios fortes para inversão do ônus,Discriminação,1
+"Ajuda de custo (art. 457, §2º CLT pós-reforma)",Não integra a remuneração,Natureza Indenizatória,1
+Laudo pericial atesta exposição a agentes insalubres conforme NR-15,Adicional de insalubridade é devido,Prova Técnica,1
+O empregado sofreu acidente de trabalho,O empregador responde objetivamente,Regra é responsabilidade subjetiva (culpa/dolo),0
+A empresa forneceu EPI,Insalubridade é indevida,Devido se o EPI não for eficaz ou se houver agente não neutralizado (ex: frio sem pausa térmica),0
+A execução é direcionada à empresa insolvente,Os sócios estão protegidos,Aplica-se a desconsideração da personalidade jurídica (Teoria Menor),0
+Houve revista visual de pertences,Gera dano moral,Não gera dano se for impessoal e sem contato físico,0
+Negociação coletiva renuncia a direito disponível,Validade (Tema 1046 STF),Autonomia Coletiva,1
+O ente público fiscalizou o contrato,Responde subsidiariamente,"Se não houver prova de negligência (culpa), não há responsabilidade subsidiária (Tema 1118 STF)",0
+O empregado permanece no 'limbo previdenciário',O empregador não deve salários,O empregador deve pagar salários se não provar recusa do empregado em retornar,0
+Lei 13.467/2017 (Reforma Trabalhista),Aplicação imediata aos contratos em curso,Direito Intertemporal,1
+Trabalhador presta horas extras habituais sob regime de compensação autorizado por norma coletiva,O regime de compensação não é descaracterizado (art. 59-B CLT),Regime de Jornada,1
+Pagamento 'por fora' (guiltas),Integração ao salário,Reflexos,1
+A empresa paga salário complessivo,É válido,"Nulo (Súmula 91 TST), verbas devem ser discriminadas",0
+Dispensa de empregado doente (ato ilícito),Direito a indenização em dobro (Lei 9.029/95),Dispensa Discriminatória,1
+Empregador com menos de 20 empregados,"Desobrigado de manter registro de ponto (art. 74, §2º, CLT)",Ônus da Prova,1
+Reclamante não provou culpa do Ente,Responsabilidade mantida,Responsabilidade excluída (ônus do autor - Tema 1118),0
+Contrato de trabalho pós-Reforma (Lei 13.467/2017),Horas in itinere indevidas,Direito Intertemporal,1
+Cargo de confiança sem gratificação de 40%,"Não enquadramento na exceção do art. 62, II, da CLT",Jornada de Trabalho,1
+A empresa não pagou verbas incontroversas,Execução suspensa,Prossegue pelo valor incontroverso,0
+Empregado impugna cartões de ponto válidos,Atrai para si o ônus da prova da invalidade,Ônus da Prova,1
+A empresa não entregou as guias de seguro-desemprego,Cabe a reintegração do empregado,Cabimento de Indenização Substitutiva (Súmula 389 TST),0
+A empresa paga salário complessivo,O pagamento é válido,É nulo o pagamento que não discrimina as verbas (Súmula 91 TST),0
+Reclamante não prova negligência do ente público (Tema 1118),Responsabilidade subsidiária afastada,Ônus da Prova,1
+Perícia atesta exposição a agentes insalubres conforme NR-15,Adicional de insalubridade é devido,Prova Técnica,1
+O auxílio-alimentação foi concedido habitualmente,Tem natureza salarial,Natureza indenizatória se houver previsão em norma coletiva (Tema 1046 STF),0
+Ação de cumprimento de sentença coletiva,Prescrição conta do trânsito em julgado da coletiva,Prescrição,1
+Contrato intermitente,"Válido se cumpridos requisitos formais (escrito, valor hora)",Novas Modalidades,1
+A sentença foi coletiva,Os honorários são devidos na execução individual,Indevidos na fase de execução trabalhista (Tese IRDR TRT5),0
+Cálculos em desacordo com sentença,Retificação necessária para observar a coisa julgada,Execução,1
+Empregado inapto para o trabalho no momento da dispensa,Dispensa é nula e contrato suspenso,Nulidade da Dispensa,1
+A parte opõe segundos embargos de declaração,Pode rediscutir o acórdão original,Apenas vícios do primeiro acórdão de embargos podem ser atacados (preclusão consumativa),0
+Inexistência de controvérsia séria sobre o inadimplemento das verbas rescisórias,Incide a multa do art. 467 da CLT,Sanção Processual,1
+Embargos com caráter protelatório,Aplicação de multa,Litigância de Má-fé,1
+O agravo interno ataca decisão monocrática,Deve ser provido se a parte não concorda,Negado se não apresentar fundamentos para desconstituir a decisão,0
+O ente público não fiscalizou o contrato,Responde solidariamente,A responsabilidade é subsidiária (e exige prova de culpa),0
+Houve descumprimento de norma coletiva,A multa normativa é devida a cada mês de infração,Interpretação Restritiva da Cláusula Penal,0
+Correção monetária sobre contribuição previdenciária,Fato gerador a partir da prestação de serviços ou pagamento,Tributário,1
+Atualização monetária de débitos trabalhistas,IPCA-E (pré-judicial) + SELIC (judicial) - ADC 58 STF,Correção Monetária,1
+O empregado utilizou veículo próprio para o trabalho,É devida indenização pelo uso do veículo,Necessidade de Ajuste Expresso ou Prova de Desgaste,0
+Empresa não forneceu lanche previsto,Obrigação extinta,Converte-se em indenização compensatória,0
+O empregado recebe comissões,Repouso semanal remunerado já incluído,Devido reflexo no RSR (Súmula 27 TST),0
+Omissão na sentença sobre valor da condenação,Sanável via embargos para fixar custas,Sentença,1
+O trabalhador é presidiário,Existe vínculo de emprego,Não (trabalho educativo/ressocialização),0
+O empregador paga salário inferior ao mínimo legal,O pagamento é válido se a jornada for reduzida,"É ilegal o pagamento inferior ao mínimo constitucional, salvo em regime de tempo parcial formal",0
+Empregador deixa de recolher FGTS,Configura falta grave apta a ensejar rescisão indireta (Súmula 59 TRT5),Falta Grave Patronal,1
+O empregado trabalha 12x36,O regime é inválido se houver horas extras,Válido mesmo com horas extras habituais (Art. 59-B CLT / Tema 1046 STF),0
+Assédio moral configurado,Indenização devida,Dano Moral,1
+A parte apresenta Embargos à Execução sem planilha,O juiz deve conceder prazo,Rejeição liminar (Súmula 14 TRT5),0
+"Parte não impugna cálculos no prazo do art. 879, §2º CLT",Opera-se a preclusão para discutir a conta,Execução,1
+Ausência de manifestação oportuna sobre laudo pericial,Preclusão da arguição de nulidade,Preclusão Temporal,1
+Empregador não apresenta recibos de pagamento,Presunção de inadimplência salarial,Ônus da Prova,1
+O trabalhador é avulso,Não tem direito a horas in itinere,Tem direito se presentes os requisitos antes da Reforma Trabalhista,0
+Há pedido de demissão,Não pode ser convertido em rescisão indireta,Possível se provado vício de consentimento ou falta grave anterior,0
+O empregado exerce cargo de gestão (Art. 62 II),Não recebe horas extras,Recebe se não tiver poderes de mando e gestão comprovados,0
+Cálculos periciais desrespeitam os parâmetros do título executivo,Devem ser retificados para observar a coisa julgada,Fidelidade ao Título,1
+Houve atraso no pagamento de salários,Gera rescisão indireta automática,"Necessidade de mora contumaz ou falta grave (Art. 483, d, CLT)",0
+Declaração de hipossuficiência por pessoa física,Presunção de veracidade para concessão de justiça gratuita,Presunção Legal,1
+O empregado foi reintegrado,Recebe tudo como salário,Verbas do período de afastamento têm natureza salarial/indenizatória conforme o título,0
+O empregado é beneficiário da justiça gratuita,Está isento da condenação em honorários de sucumbência,Condição Suspensiva de Exigibilidade (ADI 5766 STF),0
+A pessoa natural pede justiça gratuita,Precisa comprovar pobreza,Basta a declaração de hipossuficiência (presunção relativa),0
+O empregado trabalha em teletrabalho,Tem horas extras,"Não, se enquadrado na exceção do art. 62, III (sem controle)",0
+O empregado usa veículo próprio,Tem direito à indenização,Indevida se não provado ajuste ou dano/desgaste (ônus do autor),0
+O empregado armazenou produtos em casa,Tem direito a indenização/aluguel,Necessidade de prova de ajuste oneroso ou prejuízo,0
+O empregado é bancário,Divisor de horas extras é 150,Divisor 180 para jornada de 6h (IRR TST),0
+O empregado foi transferido,Recebe adicional de transferência,Apenas se provisória (Art. 469 CLT),0
+Base de cálculo do adicional de insalubridade,Salário mínimo (Súmula Vinculante 4 STF),Parâmetro Legal,1
+O acordo extrajudicial prevê quitação total do contrato,A quitação total é validada automaticamente,Juiz pode recusar se houver prejuízo ou burla a direitos,0
+Dispensa de portador de doença grave (estigma),Presunção de discriminação (Súmula 443 TST),Dispensa Discriminatória,1
+A petição inicial é inepta por defeito sanável,O processo deve ser extinto de imediato,Necessidade de concessão de prazo para emenda (Súmula 263 TST),0
+A justa causa foi revertida em juízo,A multa do art. 477 da CLT é indevida,A multa é devida na reversão da justa causa (Tema 71 TST),0
+Gratificação semestral baseada em verbas salariais (norma coletiva),Integra a base de cálculo da PLR,Reflexos Salariais,1
+Pauta de julgamento devidamente publicada,Não há omissão no acórdão,Regularidade Processual,1
+A empresa não apresentou cartões de ponto,A jornada da inicial é absoluta,"Gera presunção relativa, que pode ser elidida por outras provas",0
+Pagamento tempestivo das verbas rescisórias comprovado,Multa do art. 477 da CLT é indevida,Multa Rescisória,1
+A gestante pediu demissão,A estabilidade é perdida,"Se não houver assistência sindical, o pedido é nulo e a estabilidade (indenização) é devida",0
+Depoimento pessoal,"Serve para obter confissão, não para provar tese própria",Meio de Prova,1
+Honorários advocatícios em caso de justiça gratuita,Condição suspensiva de exigibilidade (ADI 5766),Honorários Sucumbenciais,1
+O empregador alegou justa causa,A justa causa é presumida,Ônus da prova do empregador (Fato impeditivo/extintivo),0
+O empregado foi demitido doente,A dispensa é nula,Nula apenas se houver nexo ou estigma,0
+Empresa não fiscaliza cota de aprendizagem/PCD,Nulidade da dispensa ou multa,Cota Legal,1
+Houve supressão do intervalo (comissionista),Paga-se apenas o adicional,Paga-se a hora cheia mais 50% (Súmula 437),0
+Há revelia da reclamada,A confissão ficta é absoluta,"Presunção relativa, pode ser elidida por provas pré-constituídas",0
+"Empresas possuem sócia comum, atuação conjunta e defesa única","Caracteriza-se grupo econômico (art. 2º, §§ 2º e 3º CLT)",Solidariedade,1
+Laudo pericial é contraditório com provas do INSS e afastamentos,Juiz pode afastar a conclusão do perito e reconhecer doença ocupacional,Livre Convencimento Motivado,1
+Motorista de aplicativo submetido a controle algorítmico,Reconhecimento de vínculo empregatício,Subordinação Jurídica,1
+Omissão sobre reflexos de promoções por mérito na RMNR,Acolhimento de embargos para aperfeiçoamento da prestação jurisdicional,Integração do Julgado,1
+Alimentação fornecida habitualmente sem custeio do empregado,Possui natureza salarial (salvo se houver norma coletiva em contrário),Natureza Jurídica,1
+A empresa é sucessora,Não responde por dívidas da sucedida,Responde (arts. 10 e 448 CLT),0
+A citação foi por edital,É válida,Nula se não esgotados os meios de localização pessoal,0
+O empregado tem jornada externa controlável,Não recebe horas extras,Recebe se o controle for possível,0
+Doença do trabalhador tem nexo causal com as condições de trabalho,Empregador deve pagar indenização por danos morais,Responsabilidade Civil,1
+Empresa em recuperação judicial,Isenta de depósito recursal,Não isenta (Súmula 86 TST restrita à massa falida),0
+Trabalho em câmaras frigoríficas sem proteção,Direito ao adicional de insalubridade (análise qualitativa),Segurança do Trabalho,1
+Erro material na conta de liquidação,Corrigível a qualquer tempo (não preclui),Fidelidade ao Título,1
+"Parte deixa de impugnar cálculos no prazo do art. 879, § 2º da CLT",Ocorre preclusão para discutir a conta na fase de execução,Preclusão Temporal,1
+Tarefas desempenhadas não são estranhas à função original,Indevido o plus salarial por acúmulo de função,Alteração Contratual,1
+Instrução processual encerrada após 13/02/2025 (Tema 1118 STF),Ônus de provar negligência do ente público é do trabalhador,Distribuição do Ônus,1
+Norma coletiva reduz intervalo,A cláusula é nula,Válida (Tema 1046 STF - prevalência do negociado),0
+Recurso discute apenas gratuidade de justiça,Não se exige preparo imediato (OJ 269 SDI-1),Acesso à Justiça,1
+Empregado doméstico (Lei 150/2015),Exige trabalho por mais de 2 dias na semana,Vínculo Doméstico,1
+Planilha de cálculos contraditória com acórdão,Embargos providos para retificação,Erro Material,1
+O valor da causa foi indicado na inicial,A condenação está limitada a esse valor,O valor é mera estimativa (IN 41 TST),0
+O empregado é doméstico,Aplica-se a CLT,Aplica-se a LC 150/2015,0
+Ação ajuizada antes da Reforma (2017),Não se aplicam honorários de sucumbência recíproca,Direito Intertemporal,1
+O preposto não sabe dos fatos,Confissão ficta absoluta,Pode ser elidida por prova documental já nos autos,0
+Empresa de transporte de valores,Responsabilidade objetiva em caso de assalto (risco acentuado),Risco da Atividade,1
+Empregado exerce tarefas de cargo diverso com maior complexidade,Devido o pagamento de plus salarial,Acúmulo de Função,1
+A empresa entrou em lay-off,O contrato foi rescindido,Contrato suspenso temporariamente (Art. 476-A CLT),0
+Base de cálculo do adicional de periculosidade,Salário base (exceto eletricitários),Cálculo Trabalhista,1
+A empresa não integrou a fase de conhecimento,Pode ser incluída na execução por grupo econômico,Vedada a inclusão na fase de execução se não participou do conhecimento (Tema 1232 STF),0
+Súmula 338 TST (ausência de cartões),Presunção relativa da jornada da inicial,Ônus da Prova,1
+Entidade filantrópica não comprova insuficiência financeira,Indefere-se a justiça gratuita (Súmula 463 TST),Ônus da Prova,1
+Valor da causa na inicial (rito ordinário),"Mera estimativa, não limita a condenação (IN 41 TST)","Rito Processual,,",1
+Omissão na juntada de planilha,Embargos providos,Vício Processual,1
+A empresa pagou PLR,Integra o salário,Natureza indenizatória (Lei 10.101/00),0
+Os embargos são para prequestionamento,Devem ser providos,Apenas se houver omissão; tese explícita no acórdão dispensa novos embargos,0
+Sindicato autor em ação de cumprimento,Isenção de custas (Microssistema Coletivo),Gratuidade de Justiça,1
+Cobrança excessiva de metas e exposição vexatória,"Rescisão indireta do contrato (art. 483, e, CLT)",Rescisão Indireta,1
+Dispensa discriminatória é comprovada,Devida indenização por danos morais,Responsabilidade Civil,1
+O empregador não compareceu à audiência,Cerceamento de defesa,"Não, se devidamente notificado (Revelia)",0
+Empresa não comprova recusa em reintegrar empregado após alta,Afasta-se a alegação de limbo previdenciário e pagamento de salários,Contrato de Trabalho,1
+Reconhecimento de vínculo em juízo,Multa do art. 477 da CLT é devida (Tema 168 TST),Verbas Rescisórias,1
+Embargos com intuito de reforma do mérito,Rejeição por inadequação da via,Recurso,1
+Execução contra sócio retirante,Ilegítimo,Legítimo se ação ajuizada até 2 anos da averbação,0
+O ente público não provou a fiscalização,A responsabilidade é automática,O ônus da prova da negligência é do reclamante (Tema 1118 STF),0
+Não houve condenação na parcela de reserva matemática na fase de conhecimento,Descabe sua cobrança na fase de execução,Fidelidade ao Título,1
+Os cartões de ponto têm pequenas variações,São considerados britânicos/inválidos,Válidos (Súmula 338 TST exige horários uniformes),0
+Esgotamento de meios executivos típicos,Possibilidade de medidas coercitivas atípicas (bloqueio CNH/Passaporte),Efetividade da Execução,1
+Juiz determina de ofício o recolhimento de FGTS (art. 26 Lei 8.036/90),Válida a imposição da obrigação de fazer,Poder-Dever do Juiz,1
+Seguro de vida estipulado por empresa do mesmo grupo,Legitimidade passiva da empregadora,Grupo Econômico,1
+Recurso requer gratuidade de justiça,Relator deve apreciar antes de declarar deserção (OJ 269 SDI-1),Prejudicialidade,1
+O empregado pediu demissão,Pode converter em rescisão indireta sem vício de vontade,Incompatibilidade dos institutos,0
+Empregado exerce função de caixa bancário com digitação não exclusiva,Direito ao intervalo de 10 minutos a cada 50 trabalhados (Tema 51 TST),Saúde do Trabalhador,1
+Revelia por ausência de preposto,Confissão ficta,Processual,1
+O devedor principal está em recuperação judicial,A execução prossegue na JT,Habilitação no juízo universal (após liquidação),0
+Prova documental indica trabalho anterior ao registro,Retificação da CTPS devida,Primazia da Realidade,1
+FGTS sem fichas financeiras,Cálculo com base no salário de 2005,Liquidação,1
+Sentença não analisou todos os pedidos,Sentença válida,Nulidade por julgamento citra petita,0
+Embargante tenta rediscutir impenhorabilidade de bem de família em sede de embargos,Rejeição por inadequação da via (rediscussão de mérito),Admissibilidade Recursal,1
+A empresa não apresentou cartões de ponto,A jornada da inicial é verdade absoluta,"Gera presunção relativa, que pode ser elidida por prova em contrário (Súmula 338 TST),,",0
+Dono da obra contrata empreiteiro com inidoneidade econômico-financeira evidente,Dono da obra responde subsidiariamente (culpa in eligendo),Responsabilidade Civil,1
+Empresa em recuperação judicial,Não está isenta das multas dos arts. 467 e 477 da CLT (Súmula 388 TST inaplicável),Exigibilidade de Multas,1
+O empregador alega justa causa,A justa causa é presumida,O empregador tem o ônus de provar a falta grave de forma robusta,0
+Instrução processual encerrada após 13/02/2025,Ônus de provar negligência do ente público é do reclamante (Tema 1118),Direito Intertemporal,1
+Empregado exposto a risco de queda em altura sem linha de vida,Dano moral in re ipsa (risco de morte/invalidez),Segurança do Trabalho,1
+A parte opõe Embargos de Declaração,O juiz deve reexaminar as provas,Os embargos não se prestam à reavaliação da causa ou das provas,0
+Vale-alimentação pago antes da adesão ao PAT,Natureza salarial (Súmula 241 TST),Direito Adquirido,1
+Tomadora nega prestação de serviços,Ônus é da tomadora,Ônus é do reclamante de provar labor para a tomadora (Súmula 76 TRT5),0
+Exposição a agentes químicos sem proteção eficaz,Direito à retificação do PPP (Aposentadoria Especial),Previdenciário,1
+A parte apresentou seguro garantia judicial,O preparo está regular,Não está regular se a apólice estiver em desconformidade com o Ato Conjunto TST.CSJT.CGJT nº 01/2019,0
+Redução salarial por norma interna posterior,Violação ao direito adquirido e irredutibilidade,Nulidade de Alteração,1
+Multa normativa em fase de execução,Deve corresponder às infrações reconhecidas no título executivo,Execução,1
+Valor da causa na inicial,Estimativo (IN 41 TST),Processo do Trabalho,1
+A empresa é entidade beneficente (CEBAS),Tem direito à justiça gratuita automaticamente,Necessidade de prova de hipossuficiência (Súmula 463 TST),0
+Confissão ficta do preposto,Presunção de veracidade da inicial,"Revelia,",1
+Decisão analisa provas e fundamenta inexistência de vínculo,Não cabem Embargos de Declaração por omissão,Improcedência Recursal,1
+Morte de trabalhador por fato de terceiro (sem culpa da empresa),Exclui nexo causal e responsabilidade civil,Acidente de Trabalho,1
+Cartões de ponto não possuem assinatura do empregado,Documentos mantêm validade como meio de prova (salvo prova em contrário),Valoração da Prova,1
+Reversão de justa causa por improbidade não comprovada,Dano moral in re ipsa,Responsabilidade Civil,1
+Ausência de planilha de cálculos no Agravo de Petição,Impede o conhecimento do recurso,Delimitação de Valores,1
+Atraso na entrega de guias de seguro-desemprego,Multa do art. 477 devida (Tema 127 TST),Verbas Rescisórias,1
+Atividades exercidas são compatíveis com a função de vigilante,Não configura acúmulo de função,Jus Variandi,1
+A parte inova na lide em sede recursal,O recurso deve ser conhecido,"Não se conhece de recurso no ponto que inova na lide,",0
+Empresa fornece EPI,Adicional indevido,Devido se EPI não neutralizar o agente,0
+Enquadramento sindical,Determinado pela atividade preponderante do empregador,Direito Sindical,1
+O empregado pediu demissão,O empregado tem direito ao saque do FGTS,Incompatibilidade com a Modalidade de Rescisão,0
+Transporte de valores por não vigilante,Dano moral (risco acentuado),Responsabilidade Civil,1
+Salário na CTPS digital diverge da alegação,Prevalece o registro oficial na falta de prova em contrário,Valor Probatório,1
+Cartões de ponto eletrônicos sem assinatura,Válidos como meio de prova (Tema 136 TST),Prova Documental,1
+O empregado é professor,Tem direito a horas extras por atividade extraclasse,Remunerado pelo adicional de 1/3 (Súmula 10 TST),0
+Doença degenerativa agravada pelo trabalho,Configura concausa e dever de indenizar,Nexo Concausal,1
+Não apresentação de planilha em agravo de petição,Não impede conhecimento se a matéria for apenas de direito,Instrumentalidade das Formas,1
+Rito sumaríssimo,Condenação limitada aos valores indicados na inicial (exigência legal),Rito Processual,1
+TRCT assinado pelo empregado,Prova válida de quitação das verbas discriminadas,Validade Documental,1
+Pagamento das verbas rescisórias fora do prazo legal,Incidência da multa do art. 477 da CLT,Multa Rescisória,1
+O erro de cálculo não foi impugnado na fase de liquidação,Pode ser arguido nos embargos à execução,"Preclusão (Art. 879, §2º, CLT)",0
+O Ente Público contratou empresa terceirizada que inadimpliu verbas,O Ente Público responde subsidiariamente de forma automática,Necessidade de prova de culpa/negligência (Tema 1118 STF),0
+Pagamento de salário inferior ao mínimo,Dano moral (Tema 900 STF),Dano Moral,1
+Demanda exige elevada complexidade e zelo do advogado,Justifica-se a fixação de honorários sucumbenciais no teto de 15%,Honorários Advocatícios,1
+Trabalho em altura (NR-35),Não gera adicional de periculosidade (NR-16),Rol Taxativo,1
+Acidente de trabalho com lesão consolidada,Início do prazo prescricional (Actio Nata),Prescrição,1
+Aviso prévio concedido sem redução de jornada (art. 488 CLT),Aviso é nulo e deve ser indenizado,Nulidade do Ato,1
+Omissão de parcela (Prêmio por Objetivo) na base de cálculo das horas extras contra a coisa julgada,Acolhimento de embargos para retificação com efeito modificativo,Fidelidade ao Título,1
+A norma coletiva suprime direito,É nula por reduzir direitos,Válida se não atingir direitos indisponíveis (Tema 1046 STF),0
+Execução de parcelas vincendas,Possível em obrigações de trato sucessivo (art. 323 CPC),"Liquidação,",1
+Acórdão omite o novo valor da causa após reforma,Cabem embargos de declaração para sanar a omissão,Saneamento Processual,1
+O acórdão manteve a condenação em horas extras,Os cálculos de liquidação podem ignorar o labor aos sábados reconhecido,Erro material nos cálculos passível de correção,0
+O motorista é de aplicativo,Existe vínculo de emprego,Relação autônoma (Tema 1389 STF - Distinguishing necessário),0
+O benefício é assistencial e inferior ao salário mínimo,Pode ser penhorado,É impenhorável,0
+Quebra de caixa,Exige função exclusiva de caixa (CCT),Norma Coletiva,1
+Prejuízo na complementação de aposentadoria por ato ilícito do empregador,Competência da Justiça do Trabalho para reparação (Tema 955 STJ),Competência Material,1
+Título judicial transitado em julgado fixa TR e juros,Não se aplica ADC 58 (respeito à coisa julgada),Coisa Julgada,1
+Ação coletiva proposta por sindicato,Desnecessária a individualização dos valores na petição inicial,Substituição Processual,1
+Ação ajuizada após 13/11/2019,Prescrição do FGTS é quinquenal (Súmula 362 TST),Prescrição,1
+Recurso sem ataque aos fundamentos da decisão,Não conhecimento (Súmula 422 TST),Dialeticidade,1
+Decisão do STF (RMNR) declara norma inconstitucional,Título executivo anterior torna-se inexigível (art. 525 CPC),Inexigibilidade de Título,1
+A empresa fornece EPIs,O adicional de insalubridade é indevido,O adicional é devido se os EPIs não neutralizarem o agente nocivo,0
+Escala 6x1 aplicada em período incorreto nos cálculos,Retificação necessária,Fidelidade ao Título,1
+Recorrente impugna decisão que lhe foi favorável,Falta interesse recursal,Requisito de Admissibilidade,1
+O empregado pediu demissão,A demissão é anulada,Apenas se provado vício de consentimento,0
+Embargos de declaração visam rediscutir mérito sem vícios,Rejeição dos embargos por inadequação da via,Requisito Recursal,1
+A execução é contra a Fazenda Pública,Aplica-se apenas a TR,Aplicação de IPCA-E/SELIC conforme decisão do STF e EC 113/2021,0
+Norma veda funcionamento da empresa em dia de eleição,Cria direito trabalhista,"Norma de direito civil/comercial, não cria condição de trabalho",0
+O empregado foi dispensado sem motivo,Tem direito a dano moral,"A dispensa imotivada, sem prova de ato ilícito ou lesão a direitos personalíssimos, não gera dano moral",0
+Valor indicado na petição inicial (rito ordinário),"Mera estimativa, não limitando a condenação",Rito Processual,1
+Gestante recusa retorno ao trabalho,Não configura renúncia à estabilidade provisória,Proteção à Maternidade,1
+Banco de horas foi instituído,É válido automaticamente,Inválido se houver labor habitual em atividade insalubre sem licença ou extrapolação habitual,0

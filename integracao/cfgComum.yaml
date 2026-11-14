@@ -1,0 +1,243 @@
+---
+  content:
+    comum:
+      configuracao:
+        geral:
+          cam_base: ""
+          cam_saida_paralelismo: "saida/paralelismo"
+          n_jobs: -1 #Quantidade de CPUs usadas no processamento, caso informe -1 irá utilizar todas os núcleos disponíveis
+          debug: ###DEBUG###
+          tipo_dado: #Valores possiveis JT e ptBR
+        embeddings:
+          in_utiliza_embeddings: "S"
+          aplica_lemma: "N"
+          tipo_embeddings: "###TREINO_EMBEDDINGS_TIPO_EMBEDDINGS###"
+          tokenizer:
+            tipo_input_train: "text" #Valores possiveis text e tsv
+            tipo_train: "total" #Valores possiveis total, incremental e media
+            tipo_train_fator: 0 #Definir valor maior que 0 quando o tipo_train for incremental ou media
+          params_tipo_embeddings:
+            geral:
+              vocab_size: 48000
+              fp16: True
+              bf16: False
+              num_train_epochs: 1
+              save_total_limit: 3
+              buffer_size_step: 1000
+              early_stopping: 
+                cam_arquivo: "saida/embeddings/modelo/stop-training"
+              caminho_log: "saida/embeddings/modelo"
+              eval:
+                strategy: "steps" #Valores possiveis no, steps e epochs
+                per_epochs: 100 #So precisa definir se strategy for "steps"
+                end: True #Indica se deve realizar o evaluate apos o fim do treinamento
+              save_per_epochs: 200
+            BERTimbau:
+              url_embeddings: "https://drive.google.com/u/1/uc?id=1-9GSOLN51LscrBWxLsWfEMdxjRjyZCVw&export=download"
+              from_scratch: False
+              fine_tokenizer: True
+              batch_size_train: 30
+              batch_size_eval: 30
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 1e-4
+              weight_decay: 0.01
+              adam_beta1: 0.9
+              adam_beta2: 0.999
+              adam_epsilon: 1e-8
+              max_grad_norm: 1.0
+              lr_scheduler_type: "linear"
+              warmup_steps: 0
+              warmup_ratio: 0.1
+              #deepspeed_config: "deepspeed_config/commum.json"
+            RoBERTa_ptBR:          
+              url_embeddings: "https://drive.google.com/u/1/uc?id=1-XHaIJLnYepWAst1j9tOKIz2g_eTOMsU&export=download"
+              from_scratch: False
+              fine_tokenizer: True
+              batch_size_train: 30
+              batch_size_eval: 30
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 6e-4
+              weight_decay: 0.01
+              adam_beta1: 0.9
+              adam_beta2: 0.98
+              adam_epsilon: 1e-6
+              max_grad_norm: 0.0
+              lr_scheduler_type: "linear"
+              warmup_steps: 24000
+              warmup_ratio: 0.0
+              #deepspeed_config: "deepspeed_config/commum.json"
+            GPT2_ptBR:          
+              url_embeddings: "https://drive.google.com/u/1/uc?id=1-RQN78Ty-J2YDLw0wv6Pafgpb9lGsESd&export=download"
+              from_scratch: False
+              fine_tokenizer: True
+              batch_size_train: 30
+              batch_size_eval: 30
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 1e-5
+              weight_decay: 0.01
+              adam_beta1: 0.9
+              adam_beta2: 0.999
+              adam_epsilon: 1e-8
+              max_grad_norm: 1.0
+              lr_scheduler_type: "linear"
+              warmup_steps: 0
+              warmup_ratio: 0.0
+              #deepspeed_config: "deepspeed_config/commum.json"
+            Cabrita:
+              url_embeddings: "https://drive.google.com/u/0/uc?id=1Ahqrp3P9zwsITpm_UlQLYlJHdALRkeI6&export=download"
+              from_scratch: False
+              fine_tokenizer: True
+              batch_size_train: ##Definir
+              batch_size_eval: ##Definir
+              gradient_accumulation_steps: ##Definir
+              gradient_checkpointing: False
+              learning_rate: 5e-5
+              weight_decay: 0.0
+              adam_beta1: 0.9
+              adam_beta2: 0.999
+              adam_epsilon: 1e-8
+              max_grad_norm: 1.0
+              lr_scheduler_type: "linear"
+              warmup_steps: 0
+              warmup_ratio: 0.0
+              deepspeed_config: "deepspeed_config/commum.json"
+            Sabia:
+              url_embeddings: ""
+              from_scratch: False
+              fine_tokenizer: True
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 3e-4
+              weight_decay: 0.1
+              adam_beta1: 0.9
+              adam_beta2: 0.95
+              adam_epsilon: 1e-8
+              max_grad_norm: 1.0
+              lr_scheduler_type: "cosine"
+              warmup_steps: 2
+              warmup_ratio: 0.0
+              deepspeed_config: "deepspeed_config/commum.json"
+            Llama2:
+              url_embeddings: "" # model from scratch a url deve ficar vazia
+              from_scratch: True
+              fine_tokenizer: False
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 3e-4
+              weight_decay: 0.1
+              adam_beta1: 0.9
+              adam_beta2: 0.95
+              adam_epsilon: 1e-5
+              max_grad_norm: 1.0
+              lr_scheduler_type: "cosine"
+              warmup_steps: 2000
+              warmup_ratio: 0.1
+              deepspeed_config: "deepspeed_config/llama2.json"
+            Llama3_2:
+              url_embeddings: "" # model from scratch a url deve ficar vazia
+              from_scratch: True
+              fine_tokenizer: False
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 3e-4
+              weight_decay: 0.1
+              adam_beta1: 0.9
+              adam_beta2: 0.95
+              adam_epsilon: 1e-5
+              max_grad_norm: 1.0
+              lr_scheduler_type: "cosine"
+              warmup_steps: 2000
+              warmup_ratio: 0.1
+              deepspeed_config: "deepspeed_config/llama3_2.json"
+            Mistral:
+              url_embeddings: "" # model from scratch a url deve ficar vazia
+              from_scratch: True
+              fine_tokenizer: False
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 3e-4
+              weight_decay: 0.1
+              adam_beta1: 0.9
+              adam_beta2: 0.95
+              adam_epsilon: 1e-5
+              max_grad_norm: 1.0
+              lr_scheduler_type: "cosine"
+              warmup_steps: 2000
+              warmup_ratio: 0.1
+              deepspeed_config: "deepspeed_config/mistral.json"
+            GptOss:
+              url_embeddings: "" # model from scratch a url deve ficar vazia
+              from_scratch: True
+              fine_tokenizer: False
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 2e-4
+              weight_decay: 0
+              adam_beta1: 0.9
+              adam_beta2: 0.999
+              adam_epsilon: 1e-8
+              max_grad_norm: 1.0
+              lr_scheduler_type: "cosine_with_min_lr"
+              lr_scheduler_kwargs: {"min_lr_rate": 0.1}
+              warmup_steps: 2000
+              warmup_ratio: 0.03
+              deepspeed_config: "deepspeed_config/gpt_oss.json"
+            Tucano2:
+              url_embeddings: "" # model from scratch a url deve ficar vazia
+              from_scratch: True
+              fine_tokenizer: False
+              batch_size_train: 2
+              batch_size_eval: 5
+              gradient_accumulation_steps: 320
+              gradient_checkpointing: True
+              learning_rate: 2e-4
+              weight_decay: 0.1
+              adam_beta1: 0.9
+              adam_beta2: 0.95
+              adam_epsilon: 1e-8
+              lr_scheduler_type: "cosine_with_min_lr"
+              lr_scheduler_kwargs: {"min_lr_rate": 0.00002}
+              warmup_steps: 1000              
+              deepspeed_config: "deepspeed_config/tucano.json"
+          caminho_embeddings:
+              cam_modelo: "saida/embeddings/modelo_base"
+          colunas:
+              id: "id_processo_documento_bin"
+              conteudo: "conteudo"
+              conteudo_lower: "conteudo_lower"
+              processo: "processo"
+              instancia: "cd_instancia"
+        salva_s3:
+          aws_access_key_id: "###AWS_ACCESS_KEY_ID###"
+          aws_secret_access_key: "###AWS_SECRET_ACCESS_KEY###"
+          bucket: "###AWS_BUCKET###"
+    treino_embeddings:
+      extracao: ###TREINO_EMBEDDINGS_EXTRACAO###
+      limpeza: ###TREINO_EMBEDDINGS_LIMPEZA###
+      consolida_dados: ###TREINO_EMBEDDINGS_CONSOLIDA_DADOS###
+      embeddings: ###TREINO_EMBEDDINGS_EMBEDDINGS###
+      configuracao:      
+        embeddings:
+          entrada:
+            cam_entrada_dados: "saida/limpeza/dados_consolidados.zip"
+          preparacao_dados:
+            cam_dados_tokenizador: "saida/embeddings/dados_consolidados/tokenizador"
+            cam_dados_modelo: "saida/embeddings/dados_consolidados/modelo"
+          saida:
+            cam_modelo: "saida/embeddings/modelo"
+            loss:
+              cam_treino: "saida/embeddings/modelo/loss_treino.npz"
+              cam_avaliacao: "saida/embeddings/modelo/loss_validacao.npz"

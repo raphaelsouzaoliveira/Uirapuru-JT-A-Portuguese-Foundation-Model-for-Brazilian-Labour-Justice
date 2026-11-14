@@ -1,0 +1,26 @@
+{
+    "bf16": {
+        "enabled": true
+    },
+    "fp16": {
+        "enabled": false
+    },
+    "zero_optimization": {
+        "stage": 2,
+        "allgather_partitions": true,
+        "allgather_bucket_size": 2e8,
+        "overlap_comm": true,
+        "reduce_scatter": true,
+        "reduce_bucket_size": 2e8,
+        "contiguous_gradients": true
+    },
+    "csv_monitor": {
+        "enabled": true,
+        "output_path": "/log/ds_logs/",
+        "job_name": "train_jtmultilabel"
+    }, 
+    "steps_per_print": 5,
+    "wall_clock_breakdown": false,	
+    "gradient_accumulation_steps": "auto",
+    "train_micro_batch_size_per_gpu": "auto"
+}
